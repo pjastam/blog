@@ -6,20 +6,25 @@ title: Piet Stam
 superuser: true
 
 # Role/position/tagline
-role: Associate Partner
+role: Creator of new ideas
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Equalis Strategy & Modeling
   url: https://www.equalis.nl/
+- name: VU University Amsterdam
+  url: https://research.vu.nl/en/organisations/school-of-business-and-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data privacy, digital strategy, quality measurement, risk equalization and sports betting.
 
 # Interests to show in About widget
 interests:
-- Risicoverevening
-- Kwaliteitsmeting
+- Data privacy
+- Digital strategy
+- Quality measurement
+- Risk equalization
+- Sports betting
 
 # Education to show in About widget
 education:
@@ -42,12 +47,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pjastam
-- icon: zotero
-  icon_pack: ai
-  link: https://www.zotero.org/pjastam/
 - icon: github
   icon_pack: fab
   link: https://github.com/pjastam
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/pjastam/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=4vKHtb4AAAAJ&hl=nl
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pjastam
@@ -66,10 +74,8 @@ email: ""
 highlight_name: true
 ---
 
-*Entreprenerd, strategy consultant, data scientist, econometrician, health economist, PhD*
+I founded the boutique consulting firms Equalis Strategy & Modeling and SiRM - Strategies in Regulated Markets. My area of expertise is building bridges between economic science and daily practice in health care & insurance. I am straightforward and connect stakeholders based on content and shared interests. My independent role is important to me, after all, the higher societal goal is paramount.
 
-Piet Stam has founded the Dutch consulting firms Equalis Strategy & Modeling B.V. and SiRM - Strategies in Regulated Markets B.V. He is a member of the international Risk Adjustment Network of health economists and is visiting fellow and guest lecturer at the School of Business and Economics of VU University Amsterdam.
-
-Piet is an expert in the field of data modeling and on themes such as risk equalization among health insurers and quality measurement in health care. He excels in building bridges between science and practice. He is straightforward and connects parties based on content and common interest. His independent position is important to him, after all, for him the higher societal goal is paramount.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
