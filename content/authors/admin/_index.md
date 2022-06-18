@@ -16,15 +16,13 @@ organizations:
   url: https://research.vu.nl/en/organisations/school-of-business-and-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data privacy, digital strategy, quality measurement, risk equalization and sports betting.
+bio: My research interests include digital strategy, risk equalization and sports prediction.
 
 # Interests to show in About widget
 interests:
-- Data privacy
 - Digital strategy
-- Quality measurement
 - Risk equalization
-- Sports betting
+- Sports prediction
 
 # Education to show in About widget
 education:

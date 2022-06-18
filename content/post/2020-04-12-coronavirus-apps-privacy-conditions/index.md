@@ -35,7 +35,7 @@ tags:
 - Coronavirus
 
 categories:
-- Data privacy
+- Digital strategy
 ---
 
 Het kabinet kondigt twee apps aan voor het monitoren en beheersen van de

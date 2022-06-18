@@ -33,9 +33,11 @@ authors:
 
 tags:
 - PHT
+- Personal Health Train
 
 categories:
-- Data privacy
+- Risk equalization
+- Digital strategy
 ---
 
 > Deze blog van mijn hand heb ik op bovenstaande datum op [LinkedIn](https://www.linkedin.com/pulse/personal-health-train-casus-risicoverevening-piet-stam/) gepubliceerd en is hier integraal overgenomen om de openbare beschikbaarheid te garanderen.
