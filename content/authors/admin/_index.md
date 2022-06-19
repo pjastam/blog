@@ -6,7 +6,7 @@ title: Piet Stam
 superuser: true
 
 # Role/position/tagline
-role: Creator of new ideas
+role: entrepreneur & consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
