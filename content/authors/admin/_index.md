@@ -45,6 +45,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pjastam
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pjastam
 - icon: github
   icon_pack: fab
   link: https://github.com/pjastam
@@ -54,10 +57,10 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4vKHtb4AAAAJ&hl=nl
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/pjastam
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3680-6391
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
