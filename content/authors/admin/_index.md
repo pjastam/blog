@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I founded the boutique consulting firms Equalis Strategy & Modeling and SiRM - Strategies in Regulated Markets. My area of expertise is building bridges between economic science and daily practice in health care & insurance. I am straightforward and connect stakeholders based on content and shared interests. My independent role is important to me, after all, the higher societal goal is paramount.
+I founded the boutique consulting firms Equalis Strategy & Modeling and SiRM - Strategies in Regulated Markets. My area of expertise is building bridges between economic science and daily practice in health care & insurance. I am straightforward and connect stakeholders based on content and shared interests. My passion is solving problems with data, analytics and human interaction.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
