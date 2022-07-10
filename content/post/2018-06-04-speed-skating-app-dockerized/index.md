@@ -35,7 +35,7 @@ tags:
 - speedskating
 
 categories:
-- Sports prediction
+- Sports analytics
 ---
 
 A Docker image of the [Shiny app](https://pjastam.shinyapps.io/speedskating/) for talent scouting & development of junior speed skaters was created. It is available for download at Docker Hub [here](https://hub.docker.com/r/pjastam/shiny-speedskating/). You can also find more about the how there.
