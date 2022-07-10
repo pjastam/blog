@@ -35,7 +35,7 @@ tags:
 - Betting
 
 categories:
-- Sports analytics
+- Sports prediction
 ---
 
 > Deze blog van mijn hand heb ik op bovenstaande datum op [LinkedIn](https://www.linkedin.com/pulse/de-bal-rond-piet-stam/) gepubliceerd en is hier integraal overgenomen om de openbare beschikbaarheid te garanderen.

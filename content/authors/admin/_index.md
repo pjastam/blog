@@ -16,13 +16,13 @@ organizations:
   url: https://research.vu.nl/en/organisations/school-of-business-and-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital strategy, risk equalization and sports analytics.
+bio: My research interests include digital strategy, risk equalization and sports prediction.
 
 # Interests to show in About widget
 interests:
 - Digital strategy
 - Risk equalization
-- Sports analytics
+- Sports prediction
 
 # Education to show in About widget
 education:
@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I founded the boutique consulting firms Equalis Strategy & Modeling and SiRM - Strategies in Regulated Markets. My area of expertise is building bridges between economic science and daily practice in health care & insurance. I am straightforward and connect stakeholders based on content and shared interests. My passion is solving problems with data, analytics and human interaction.
+I founded the boutique consulting firms Equalis Strategy & Modeling and SiRM - Strategies in Regulated Markets. My area of expertise is building bridges between economic science and daily practice in health care & insurance. I am straightforward and connect stakeholders based on content and shared interests. My independent role is important to me, after all, the higher societal goal is paramount.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
