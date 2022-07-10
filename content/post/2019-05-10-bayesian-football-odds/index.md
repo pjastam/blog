@@ -36,7 +36,7 @@ tags:
 - Betting
 
 categories:
-- Sports prediction
+- Sports analytics
 ---
 
 We estimated the odds of football matches in the last two weeks of the 2018/2019 Dutch Eredivisie football competiton. All results and my explanations can be found [here](http://htmlpreview.github.com/?https://github.com/pjastam/r-bayesian-football-odds/blob/master/NL_eredivisie_2014_2019.html). If you are interested in the code, you can find that on [GitHub](https://github.com/pjastam/r-bayesian-football-odds).
