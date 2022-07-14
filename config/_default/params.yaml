@@ -44,9 +44,9 @@ footer:
     notice: '© {year} Me. This work is licensed under {license} unless stated otherwise. [Code for site](https://github.com/pjastam/blog)'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 
