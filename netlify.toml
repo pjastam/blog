@@ -19,3 +19,16 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/coronavirus_dashboard"
+  to = "https://pjastam.github.io/coronavirus-dashboard"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coronavirus-dashboard"
+  to = "https://pjastam.github.io/coronavirus-dashboard"
+  status = 301
+  force = true
+  
