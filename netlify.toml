@@ -32,3 +32,74 @@
   status = 301
   force = true
   
+[[redirects]]
+  from = "/about"
+  to = "/#about"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog"
+  to = "/post"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/credits"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/2020/04/12/coronavirus-apps-privacy-conditions"
+  to = "/post/2020-04-12-coronavirus-apps-privacy-conditions"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/blog/2019/05/10/de-bal-is-rond"
+  to = "/post/2019-05-10-de-bal-is-rond"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/blog/2019/05/10/bayesian-football-odds"
+  to = "/post/2019-05-10-bayesian-football-odds"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/blog/2019/02/19/personal-health-train-case-risk-equalization"
+  to = "/post/2019-02-19-personal-health-train-case-risk-equalization"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/2018/06/04/speed-skating-app-dockerized"
+  to = "/post/2018-06-04-speed-skating-app-dockerized"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/2018/02/13/speed-skating-app-for-talent-scouting-and-development"
+  to = "/post/2018-02-13-speed-skating-app-for-talent-scouting-and-development"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/phdthesis"
+  to = "https://pjastam.github.io/phdthesis"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mscthesis"
+  to = "https://pjastam.github.io/mscthesis"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/msc-thesis-arfima"
+  to = "https://pjastam.github.io/msc-thesis-arfima"
+  status = 301
+  force = true
