@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license} unless stated otherwise. [Code for site](https://github.com/pjastam/blog)'
+    notice: 'Copyright © {year} Piet Stam. Content is licensed under {license} unless stated otherwise. [Code for this site](https://github.com/pjastam/blog)'
     license:
       enable: true
       allow_derivatives: true
